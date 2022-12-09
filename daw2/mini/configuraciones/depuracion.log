@@ -1,0 +1,242 @@
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.981 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC
+2021-11-08 11:16:58.982 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.982 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC
+2021-11-08 11:16:58.982 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:16:58.982 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC
+2021-11-08 11:17:09.973 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC' at line 1
+2021-11-08 11:17:09.974 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC
+2021-11-08 11:20:17.270 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.270 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.271 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.893 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.893 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:17.894 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.077 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.272 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.273 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.428 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:18.577 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.314 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.314 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:27.315 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.402 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.402 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=librolimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cuentoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=cancioneslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=juegoslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=peliculaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 order by referencia DESC LIMIT 0,5' at line 1
+2021-11-08 11:20:47.403 basedatos::ejecutarSQL SQL= SELECT * FROM articulos where tipo=revistaslimit 5 order by referencia DESC LIMIT 0,5
+2021-11-12 19:00:35.879 basedatos::ejecutarSQL BaseDatos Error (42000): 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AS q' at line 1
+2021-11-12 19:00:35.879 basedatos::ejecutarSQL SQL= SELECT COUNT(*) AS total FROM () AS q
+2021-11-16 17:46:08.618 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:46:08.618 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "SLKFGJ", "6.55", "21", "", "juegos", "Call of duty warzone", NULL, NULL, NULL, NULL)
+2021-11-16 17:46:50.056 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:46:50.056 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "juegos", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:05.716 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:05.716 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "juegos", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:06.263 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:06.263 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:06.452 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:06.452 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:06.632 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:06.632 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:06.824 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:06.824 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:06.992 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:06.992 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:07.313 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:07.313 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:07.483 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:07.483 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:13.603 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:13.603 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "cuentos", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:13.863 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:13.863 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:14.032 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:14.032 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:14.564 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:14.564 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:14.763 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:14.763 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:14.948 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:14.948 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:15.102 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:15.102 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:15.272 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:15.272 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:15.412 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:15.412 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:47:15.573 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:47:15.573 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "adfa", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:52:40.936 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:52:40.936 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "0.00", "0.00", "", "peliculas", "Casi 300", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:13.717 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:13.717 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "0.00", "0.00", "", "peliculas", "Casi 300", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:39.585 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:39.585 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5", "5", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:40.704 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:40.704 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:41.143 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:41.144 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:41.342 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:41.342 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:41.634 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:41.634 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:41.792 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:41.792 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:53:42.119 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:53:42.119 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:53.991 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:53.991 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:54.397 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:54.397 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:54.585 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:54.585 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:54.896 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:54.896 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:55.245 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:55.245 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:55.456 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:55.456 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:56.159 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:56.159 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 17:58:56.445 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 17:58:56.445 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.00", "5.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:05.817 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:05.817 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("", "", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:10.587 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:10.587 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:25.177 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:25.177 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.2", "25%", "", "canciones", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:27.857 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:27.857 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.20", "25.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:28.044 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:28.044 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.20", "25.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:28.214 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:28.214 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.20", "25.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:28.394 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:28.394 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.20", "25.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:28.706 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:28.706 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "", "5.20", "25.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:39.097 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:39.097 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.20", "25.00", "ñohñh", "libros", "l,,,`plkpjpk", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:39.580 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:39.580 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.20", "25.00", "ñohñh", "libros", "l,,,`plkpjpk", NULL, NULL, NULL, NULL)
+2021-11-16 18:00:39.909 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:00:39.909 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.20", "25.00", "ñohñh", "libros", "l,,,`plkpjpk", NULL, NULL, NULL, NULL)
+2021-11-16 18:39:55.821 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:39:55.821 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART0000026", "adfa", "5.20", "25.00", "ñohñh", "libros", "l,,,`plkpjpk", NULL, NULL, NULL, NULL)
+2021-11-16 18:42:43.673 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:42:43.673 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("Referencia", "adfad", "6.55", "20", "", "peliculas", "Call of duty warzone", NULL, NULL, NULL, NULL)
+2021-11-16 18:49:35.251 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:49:35.251 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("Referencia", "adfad", "6.55", "20.00", "", "libros", "Call of duty warzone", NULL, NULL, NULL, NULL)
+2021-11-16 18:50:59.851 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:50:59.851 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("Referencia", "adfad", "6.55", "20.00", "", "libros", "Call of duty warzone", NULL, NULL, NULL, NULL)
+2021-11-16 18:54:08.200 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:54:08.200 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("", "", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:54:09.499 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:54:09.499 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("", "", "0.00", "0.00", "", "libros", "", NULL, NULL, NULL, NULL)
+2021-11-16 18:54:43.011 basedatos::ejecutarSQL BaseDatos Error (23000): 1048 - Column 'ISBN' cannot be null
+2021-11-16 18:54:43.011 basedatos::ejecutarSQL SQL= INSERT INTO articulos (referencia, texto, precio, iva, notas, tipo, titulo, ISBN, duracion, paginas, tamaño) VALUES ("ART00026", "SLKFGJ", "5", "24", "", "juegos", "", NULL, NULL, NULL, NULL)
+2021-11-22 20:53:26.020 basedatos::ejecutarSQL BaseDatos Error (42S22): 1054 - Unknown column 'asdfdas' in 'where clause'
+2021-11-22 20:53:26.020 basedatos::ejecutarSQL SQL= SELECT * FROM usuarios where login=asdfdas and password=asdfad
+2021-11-22 20:53:34.402 basedatos::ejecutarSQL BaseDatos Error (42S22): 1054 - Unknown column 'admin' in 'where clause'
+2021-11-22 20:53:34.402 basedatos::ejecutarSQL SQL= SELECT * FROM usuarios where login=admin and password=admin
+2021-11-23 20:43:10.095 basedatos::ejecutarSQL BaseDatos Error (42S22): 1054 - Unknown column 'referencia' in 'order clause'
+2021-11-23 20:43:10.096 basedatos::ejecutarSQL SQL= SELECT COUNT(*) AS total FROM (SELECT * FROM usuarios ORDER BY referencia ASC) AS q
+2021-11-23 20:43:10.096 basedatos::ejecutarSQL BaseDatos Error (42S22): 1054 - Unknown column 'referencia' in 'order clause'
+2021-11-23 20:43:10.096 basedatos::ejecutarSQL SQL= SELECT * FROM usuarios ORDER BY referencia ASC LIMIT 0,10
+2021-11-23 23:55:32.701 basedatos::ejecutarSQL BaseDatos Error (42S22): 1054 - Unknown column 'utlima_fecha' in 'field list'
+2021-11-23 23:55:32.701 basedatos::ejecutarSQL SQL= INSERT INTO usuarios (id, nombre, login, password, perfil, utlima_fecha) VALUES (NULL, "alvaro", "alvaro", "alvaro", "Usuario", "")

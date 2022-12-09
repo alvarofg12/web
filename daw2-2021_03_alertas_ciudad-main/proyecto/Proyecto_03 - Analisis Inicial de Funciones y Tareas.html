@@ -1,0 +1,136 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Proyecto en Grupo - 3. Analisis Inicial de Funciones y Tareas</title>
+</head>
+<body>
+<div class="bloque" style="font-family:arial;font-size:1.25em;text-align:justify;border:1.5mm solid #508050;margin:0.25em;padding:1em;">
+
+<div class="titulo titulo1" style="margin:5mm;font-size:2.0em;font-weight:bold">Proyecto en Grupo</div>
+<div class="titulo titulo2" style="margin:5mm;font-size:1.5em;font-weight:bold">3. Analisis Inicial de Funciones y Tareas.</div>
+
+<br/>
+&nbsp;&nbsp;&nbsp;De los reguisitos iniciales planteados, se extraen una serie de funciones básicas a implementar, además de una serie de tareas adicionales a desarrollar dentro del sistema.</strong>.
+<br/>
+<br/>
+
+<hr/>
+<div class="titulo titulo3" style="margin:5mm;font-size:1.0em;font-weight:bold">Funcionalidades:</div>
+<div style="text-align:justify;margin:0em">
+<!--
+<table style="background:red">
+<thead>
+<tr>
+<th>#</th>
+<th>Funcionalidad</th>
+<th>Grupo</th>
+</tr>
+</thead>
+<tbody>
+
+</tbody>
+</table>
+-->
+
+<ul type="disc">
+  <li><strong>F1</strong> &rarr; Mantenimiento de Usuarios, 
+                Lista fija de clases de Perfiles o Roles, 
+                Mantenimiento de la Configuración, 
+                Mantenimiento de Logs,
+                Lista fija de clases de mensajes de Log, 
+                Copias de Seguridad.
+  </li>
+  <li><strong>F2</strong> &rarr; Mantenimiento de Alertas, 
+                Lista fija de clases de Bloqueo, 
+                Lista fija de clases de Estados de Terminación, 
+                Mantenimiento de Etiquetas relacionadas con Alerta,
+                y en general datos básicos de la Alerta.
+  </li>
+  <li><strong>F3</strong> &rarr; Mantenimiento de Etiquetas, 
+                Mantenimiento de Imágenes de las Alertas, 
+                Mantenimiento de Comentarios en Alertas.
+  </li>
+  <li><strong>F4</strong> &rarr; Mantenimiento de Áreas, 
+                Lista fija de clases de Área, 
+                Mantenimiento de Áreas de moderación para Usuarios.
+  </li>
+  <li><strong>F5</strong> &rarr; Mantenimiento de Incidencias (Avisos y Notificaciones), 
+                Lista fija de clases de Incidencia, 
+                Mantenimiento de Clasificaciones,
+                Mantenimiento de Etiquetas relacionadas con Clasificaciones.
+                
+  </li>
+</ul>
+</div>
+
+<hr/>
+<div class="titulo titulo3" style="margin:5mm;font-size:1.0em;font-weight:bold">Tareas Adicionales:</div>
+<div style="text-align:justify;margin:0em">
+<ul>
+  <li><strong>T1</strong> &rarr; Partes públicas de visualización y Acciones del formulario de Acceso (login, logout), 
+                y del formulario de Registro de Usuarios.
+                Pieza con la lista de Alertas con &quot;ficha resumida&quot;, 
+                la cual puede usarse varias veces en la misma página según los filtros de datos aplicados.
+  </li>
+  <li><strong>T2</strong> &rarr; Parte pública de visualización de Alertas con &quot;ficha detallada&quot;, 
+                usando las piezas necesarias (propias o de otros compañeros) para mostrar todo lo necesario: 
+                Piezas para ver el estado de la alerta (y poder denunciar), 
+                ver los votos recibidos (y poder votar), 
+                ver los comentarios de la alerta (y poder agregar, responder, denunciar), ...
+                Acciones para cumplir con las funcionalidades indicadas para las alertas según los perfiles de los usuarios.
+  </li>
+  <li><strong>T3</strong> &rarr; Pieza pública de visualización del formulario de selección de Etiquetas en general.
+                Acción para el Filtrado de resultados por la selección de etiquetas realizada 
+                y mostrar los resultados usando la pieza realizada de la lista de Alertas con &quot;ficha resumida&quot;.
+                Pieza pública de visualización del formulario de Búsqueda detallada de Alertas.
+                Acción para el Filtrado de resultados por los datos introducidos en la búsqueda
+                y mostrar los resultados usando la pieza realizada de la lista de Alertas con &quot;ficha resumida&quot;.
+  </li>
+  <li><strong>T4</strong> &rarr; Parte pública de visualización de la sección de &quot;Opciones de Usuarios Registrados&quot; con sus datos 
+                o bloques de datos vinculados:
+                    Piezas de &quot;Mi Perfil&quot;, 
+                    Incidencias (Avisos, Notificaciones y Notas) (F5), 
+                    Alertas Propias (aprovechando lo creado en F2), 
+                    Comentarios en Alertas (F2, F3).
+                Acciones para cumplir las funcionalidades indicadas para los usuarios registrados según los perfiles de los mismos.
+  </li>
+  <li><strong>T5</strong> &rarr; Parte pública de visualización de la Portada inicial creando la plantilla principal del Portal 
+                y usando las piezas necesarias (propias o de otros compañeros) para mostrar en la misma.
+                Pieza pública de visualización del menú de selección de la jerarquía de Clasificaciones de Etiquetas.
+                Acción para el Filtrado de resultados por la clasificación seleccionada
+                y mostrar los resultados usando la pieza realizada de la lista de Alertas con &quot;ficha resumida&quot;.
+  </li>
+</ul>
+<!-- hr/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*** Los grupos que se formen deberán diseñar, implementar y documentar dos de los bloques trabajo, uno de funciones de mantenimiento &quot;Fx&quot; y otro de tareas adicionales &quot;Tx&quot;, de entre las indicadas anteriormente.
+<br/>
+Una combinación de bloques de trabajo más o menos apropiada para esta aplicación es:
+&nbsp;&nbsp;&nbsp;(F1,T1), (F2,T2), (F3,T3), (F4,T4), (F5,T5)
+<br/ -->
+</div>
+
+<hr/>
+<div class="titulo titulo3" style="margin:5mm;font-size:1.0em;font-weight:bold">Roles / Perfiles:</div>
+<div style="text-align:justify;margin:0em">
+<ul>
+  <li>
+  <strong>Usuario Invitado (guest): </strong>Cualquier usuario que navega por las partes públicas del portal, sin necesidad de estar registrado o validado en la aplicación.
+  </li>
+  <li>
+  <strong>Usuario Registrado (normal): </strong>Pensado para los usuarios que quieren utilizar la web a la hora de buscar, consultar / visualizar las alertas de su interés, tanto públicas como privadas, gestionar su perfil, gestionar sus avisos, notificaciones y mensajes con moderadores o administradores, gestionar sus propias alertas y los comentarios asociados a las mismas.
+  </li>
+  <li>
+  <strong>Usuario Moderador (moderador): </strong>Pensado para los usuarios que además deseen colaborar con la web a la hora de moderar las alertas y comentarios de una o varias áreas geográficas.
+  </li>
+  <li>
+  <strong>Administrador del Portal (admin): </strong>Pensado para aquellos usuarios que realizan las tareas de mantenimiento de los datos del sistema, pueden gestionar cualquier cosa de la parte privada como usuarios, alertas y datos asociados, categorías, áreas y ubicaciones, configuración, hacer copias de seguridad o restaurarlas.
+  </li>
+  <li>
+  <strong>Administrador del Sistema (sysadmin): </strong>Pensado para los programadores de la aplicación y/o administradores generales del sistema donde se instale, tendrá acceso a todas las funciones de la aplicación sin restricciones, y opcionalmente deberá poder activar el rol que desee para trabajar como un usuario de ese tipo.
+  </li>
+</ul>
+  
+</div>
+
+</body>
+</html>
